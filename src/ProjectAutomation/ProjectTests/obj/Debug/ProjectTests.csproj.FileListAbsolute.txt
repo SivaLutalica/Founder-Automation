@@ -1,0 +1,13 @@
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\obj\Debug\ProjectTests.csprojResolveAssemblyReference.cache
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\ProjectTests.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\ProjectTests.pdb
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\nunit.framework.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\ProjectAutomation.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\WebDriver.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\WebDriver.Support.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\ProjectAutomation.pdb
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\nunit.framework.xml
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\WebDriver.xml
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\bin\Debug\WebDriver.Support.xml
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\obj\Debug\ProjectTests.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectTests\obj\Debug\ProjectTests.pdb

@@ -1,0 +1,39 @@
+﻿REGISTER
+ - nakon registracije, assertovati da postoje profile picture i pogledati jos na osnovu cega bi se moglo assertovati.
+
+ PROFILE PAGES
+ - sve u istom pejdzu
+ 
+ - Da se ne zatvara browser nakon svakog testa vec da se testovi nastavljaju:
+	
+	[TestFixture]
+		[TestFixtureSetUp]
+			[Test]
+			[Test]
+		[TestFixtureTearDown]
+
+	* Rijesti LOGIN / mozda playlistom da se ovo odradi?
+
+	Ako ovo proradi, onda asserte za profil treba zamjeniti sa VERIFY.
+
+ - Da se browser otvara u full-screenu................... DONE (Driver.cs #26/27)
+
+
+ TESTOVI
+	- SignIn
+		* User_Can_LogIn ................................ Vidjeti kako da assertuje na bilo koji username / ovde stao :D
+	
+	- SignOut
+		* User_Can_LogOut ............................... Treba srediti SignOut > This Device/All Devices
+
+	- Registration
+		* User_Can_Register_With_Facebook ............... Generalno asserti + LinkedIn zeza sa confiromovanim accountom
+		* User_Can_Register_With_Gmail .................. 
+		* User_Can_Register_With_Linkedin ............... 
+		* User_Can_Register_With_Twitter ................ 
+
+	- Profile
+		* Can_Add_Remove_Picture_In_About_Section ....... 
+		* Can_Change_Name_And_Title ..................... 
+		* Can_Change_Profile_Picture .................... 
+		* Can_Edit_User_About_Section ................... 

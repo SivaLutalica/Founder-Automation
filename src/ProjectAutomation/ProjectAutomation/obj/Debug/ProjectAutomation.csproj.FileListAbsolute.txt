@@ -1,0 +1,10 @@
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\obj\Debug\ProjectAutomation.csprojResolveAssemblyReference.cache
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\ProjectAutomation.dll.config
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\ProjectAutomation.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\ProjectAutomation.pdb
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\WebDriver.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\WebDriver.Support.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\WebDriver.xml
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\bin\Debug\WebDriver.Support.xml
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\obj\Debug\ProjectAutomation.dll
+C:\Users\Grga\Documents\Visual Studio 2013\Projects\seleniumtests\Founder_2.0\src\ProjectAutomation\ProjectAutomation\obj\Debug\ProjectAutomation.pdb
